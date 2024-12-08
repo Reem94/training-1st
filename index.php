@@ -238,31 +238,33 @@ if(isset($_POST['submit']))
 </section>
 
 <!-- footer -->
-<div class="box-container container">
+<footer class="footer">
+    <div class="box-container container">
 
-    <div class="box">
-        <i class="fas fa-phone"></i>
-        <h3>Phone number</h3>
-        <p>+234-567-891</p>
-        <p>+456-789-123</p>
-    </div>
-    <div class="box">
-        <i class="fas fa-map-marker-alt"></i>
-        <h3>Address</h3>
-        <p>New Damietta, Damietta, Egypt</p>
-    </div>
-    <div class="box">
-        <i class="fas fa-clock"></i>
-        <h3>Open</h3>
-        <p>10 am to 5 pm</p>
-    </div>
-    <div class="box">
-        <i class="fas fa-envelope"></i>
-        <h3>Email</h3>
-        <p>eversmile@gmail.com</p>
-        <p>eversmileclinic@gmail.com</p>
-    </div>
+        <div class="box">
+            <i class="fas fa-phone"></i>
+            <h3>Phone number</h3>
+            <p>+234-567-891</p>
+            <p>+456-789-123</p>
+        </div>
+        <div class="box">
+            <i class="fas fa-map-marker-alt"></i>
+            <h3>Address</h3>
+            <p>New Damietta, Damietta, Egypt</p>
+        </div>
+        <div class="box">
+            <i class="fas fa-clock"></i>
+            <h3>Open</h3>
+            <p>10 am to 5 pm</p>
+        </div>
+        <div class="box">
+            <i class="fas fa-envelope"></i>
+            <h3>Email</h3>
+            <p>eversmile@gmail.com</p>
+            <p>eversmileclinic@gmail.com</p>
+        </div>
 
+    </div>
 </div>
 
 <!-- js file link -->
