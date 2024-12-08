@@ -309,8 +309,7 @@ section {
 }
 
 .footer{
-    background-color: var(--light-bg);
-    padding-top: 40px;
+    background-color: var(--white);
 }
 
 .footer .box-container{
@@ -326,7 +325,7 @@ section {
 .footer .box-container .box i{
     height: 5rem;
     width: 5rem;
-    border-radius: 50%;
+    border-radius: 40%;
     line-height: 5rem;
     font-size: 2rem;
     background-color: var(--blue);
